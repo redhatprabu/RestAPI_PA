@@ -1,0 +1,10 @@
+Note: I have created the framework using eclipse in windows and not hotcoded to get value over scripting
+
+Included maven dependency in pom file to execute the script in both Windows and Mac OS
+created two separate feature file for both playlist and song
+created two runner file playlist and song to execute junit test
+Comparing the json files to validate the response against json scchema
+Validated the status code and message of the response
+Taking value from the get response to validate the delete request
+
+
